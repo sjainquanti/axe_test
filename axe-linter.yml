@@ -1,0 +1,8 @@
+rules:
+  image-alt: true
+
+exclude:
+  - meta-refresh.html
+
+tags:
+  - wcag2a
