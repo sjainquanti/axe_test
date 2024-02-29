@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "deque-systems.vscode-axe-linter",
+    "editor.defaultFoldingRangeProvider": "deque-systems.vscode-axe-linter"
+}
